@@ -1,0 +1,9 @@
+C:\Bhargav\Git Repository\WindowsApp-YoutubeDownloader\WindowsApp-YoutubeDownloader\bin\Debug\WindowsApp-YoutubeDownloader.exe.config
+C:\Bhargav\Git Repository\WindowsApp-YoutubeDownloader\WindowsApp-YoutubeDownloader\bin\Debug\WindowsApp-YoutubeDownloader.exe
+C:\Bhargav\Git Repository\WindowsApp-YoutubeDownloader\WindowsApp-YoutubeDownloader\bin\Debug\WindowsApp-YoutubeDownloader.pdb
+C:\Bhargav\Git Repository\WindowsApp-YoutubeDownloader\WindowsApp-YoutubeDownloader\obj\Debug\WindowsApp-YoutubeDownloader.csprojResolveAssemblyReference.cache
+C:\Bhargav\Git Repository\WindowsApp-YoutubeDownloader\WindowsApp-YoutubeDownloader\obj\Debug\WindowsApp_YoutubeDownloader.Form1.resources
+C:\Bhargav\Git Repository\WindowsApp-YoutubeDownloader\WindowsApp-YoutubeDownloader\obj\Debug\WindowsApp_YoutubeDownloader.Properties.Resources.resources
+C:\Bhargav\Git Repository\WindowsApp-YoutubeDownloader\WindowsApp-YoutubeDownloader\obj\Debug\WindowsApp-YoutubeDownloader.csproj.GenerateResource.Cache
+C:\Bhargav\Git Repository\WindowsApp-YoutubeDownloader\WindowsApp-YoutubeDownloader\obj\Debug\WindowsApp-YoutubeDownloader.exe
+C:\Bhargav\Git Repository\WindowsApp-YoutubeDownloader\WindowsApp-YoutubeDownloader\obj\Debug\WindowsApp-YoutubeDownloader.pdb
